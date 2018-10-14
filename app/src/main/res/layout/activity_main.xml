@@ -35,7 +35,7 @@
             android:background="@color/colorBackgroundFoto"
             android:contentDescription="@string/image_description"
             android:src="@mipmap/main_pic"
-            android:scaleType=""/>
+            android:scaleType="centerInside"/>
 
         <LinearLayout
             android:id="@+id/linearLayout"
