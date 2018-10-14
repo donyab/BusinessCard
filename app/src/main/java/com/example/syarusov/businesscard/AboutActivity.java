@@ -1,8 +1,6 @@
 package com.example.syarusov.businesscard;
 
-import android.app.Activity;
 import android.content.Context;
-import android.content.ContextWrapper;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.net.Uri;
@@ -16,9 +14,9 @@ import android.widget.Toast;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-public class MainActivity extends AppCompatActivity {
+public class AboutActivity extends AppCompatActivity {
     private String mailTextString;
-    private static final int LAYOUT = R.layout.activity_main;
+    private static final int LAYOUT = R.layout.activity_about;
 
 
     @Override

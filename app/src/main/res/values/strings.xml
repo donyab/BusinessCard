@@ -10,4 +10,6 @@
     <string name="instagramButtonText">instagram</string>
     <string name="telegramButtonText">telegram</string>
     <string name="myname">Yarusov Sergei</string>
+    <string name="about_label">About</string>
+    <string name="main_activity_label">NY times</string>
 </resources>
