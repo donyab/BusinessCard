@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">BusinessCard</string>
+    <string name="image_description">It\'s I</string>
+    <string name="my_achieves">My achieves</string>
+    <string name="position">1C Software Project Manager</string>
+    <string name="interests">Android development</string>
+    <string name="hobby">Hockey</string>
+    <string name="my_resume">Einstein"'"s main idea was simple: the material carrier of space is the space itself (more precisely, the space-time). The fact that gravity can be viewed as a manifestation of the properties of the geometry of four-dimensional non-Euclidean space, without invoking additional concepts, is a consequence of the fact that all bodies in the field of the field get the same acceleration.</string>
+    <string name="send_message">Send message</string>
+    <string name="instagramButtonText">instagram</string>
+    <string name="telegramButtonText">telegram</string>
+    <string name="myname">Yarusov Sergei</string>
 </resources>

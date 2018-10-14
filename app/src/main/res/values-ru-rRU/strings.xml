@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Визитка</string>
+    <string name="image_description">Это Я</string>
+    <string name="my_achieves">Мои достижения</string>
+    <string name="position">1C программист</string>
+    <string name="interests">Android разработка</string>
+    <string name="hobby">Хоккей</string>
+    <string name="my_resume">Основная идея Эйнштейна была проста: материальным носителем тяготения является само пространство (точнее, пространство-время). Тот факт, что гравитацию можно рассматривать как проявление свойств геометрии четырёхмерного неевклидова пространства, без привлечения дополнительных понятий, есть следствие того, что все тела в поле тяготения получают одинаковое ускорение.</string>
+    <string name="send_message">Письмо</string>
+    <string name="instagramButtonText">instagram</string>
+    <string name="telegramButtonText">telegram</string>
+    <string name="myname">Ярусов Сергей</string>
+</resources>
