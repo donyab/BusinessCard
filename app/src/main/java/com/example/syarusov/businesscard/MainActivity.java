@@ -38,7 +38,9 @@ public class MainActivity extends AppCompatActivity {
         buttonTelegram.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                intentMessageTelegram("test1");
+                EditText mailAdres = findViewById(R.id.mailAdres);
+                mailTextString = mailAdres.getText().toString();
+                intentMessageTelegram(mailTextString);
             }
         });
 
